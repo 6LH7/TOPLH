@@ -1,5 +1,5 @@
 We are working for a best optimization,
-Released The V2.1
+Released The V2.2
 This is Legit Hub (LH) V2. No fluff, no filler—just pure dominance. If you're looking for an apology for how hard this hits, go somewhere else.
 
 LEGIT HUB (LH) V2: RELEASE NOTES
@@ -22,6 +22,9 @@ FRIEND & TEAM LOGIC: Don’t be a clown. Our logic ensures you never lock onto a
 PLAYER SEARCH: No one is anonymous. No one is hidden. Find your targets instantly and systematically.
 
 (NEW)
+WHITE LIST / BLACK LIST: Add your enemies or your teammates with a easy button.
+
+(NEW)
 FAST SWITCHING: Now u don't need to open the UI anymore with a simple keybind u can change of target easily.
 
 THE BOTTOM LINE
@@ -35,4 +38,4 @@ Stop playing fair. Start winning.
 WATCH THE SHOWCASE:
 [https://www.youtube.com/watch?v=09QpNQ5hfo0]
 
-Current Version: 2.1
+Current Version: V2.2
