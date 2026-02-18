@@ -1,10 +1,8 @@
 We are working for a best optimization,
-Released The V2.2
+Released The V2.3
 This is Legit Hub (LH) V2. No fluff, no filler—just pure dominance. If you're looking for an apology for how hard this hits, go somewhere else.
 
 LEGIT HUB (LH) V2: RELEASE NOTES
-The Rebrand: Legit Ware is Dead.
-We’ve evolved. Legit Hub (LH) is the new standard. It’s cleaner, faster, and more lethal. If you’re still using the old version, you’re already behind.
 
 THE LOADOUT: WHAT’S NEW
 ESP REBORN: We’ve stripped the garbage. You get high-fidelity, clinical intel. You see them; they don't see you. Simple.
@@ -25,7 +23,7 @@ PLAYER SEARCH: No one is anonymous. No one is hidden. Find your targets instantl
 WHITE LIST / BLACK LIST: Add your enemies or your teammates with a easy button.
 
 (NEW)
-FAST SWITCHING: Now u don't need to open the UI anymore with a simple keybind u can change of target easily.
+FAST SWITCHING: Now u don't need to open the UI anymore with a simple keybind u can change of target part (Head or torso) easily.
 
 THE BOTTOM LINE
 Other players "grind." You dominate.
@@ -38,4 +36,4 @@ Stop playing fair. Start winning.
 WATCH THE SHOWCASE:
 [https://www.youtube.com/watch?v=09QpNQ5hfo0]
 
-Current Version: V2.2
+Current Version: V2.3
