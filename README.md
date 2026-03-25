@@ -1,34 +1,34 @@
-LH V2.4: Precision. Dominance. Unmatched.
+Gemini ha dicho
+LH V2.5: GOD MODE ENGAGED. TOTAL ANNIHILATION.
 
-Legit Hub (LH) V2.4 is not a tool; it’s an evolution. We’ve eliminated the noise to deliver a surgical advantage that redefines the game. If you’re seeking average, look elsewhere. If you’re seeking absolute control, you’ve arrived.
+Stop pretending you’re here to "compete." You’re here to delete people. Legit Hub (LH) V2.5 is here to ensure that every "pro" in the server looks like a complete amateur. We’ve stripped the fluff and injected pure, unadulterated dominance into every line of code. If you’re still playing fair, you’re just fodder for those who aren't.
 
-THE LOADOUT: THE ARSENAL OF DOMINANCE
-ESP REBORN: We’ve stripped the clutter. What remains is high-fidelity, clinical intelligence. See every move, anticipate every play, and remain invisible. Simple, lethal, and effective.
+THE LOADOUT: THE TOOLS OF PERSECUTION
+ESP REBORN: Stop guessing like a bot. Our high-fidelity intel strips away the fog of war. See their health, their distance, and their pathetic attempts to hide. They aren't players anymore; they’re just glowing targets waiting to be harvested.
 
-REMASTERED AIMBOT: Re-engineered for perfection. We’ve eradicated robotic snapping in favor of smooth, human-like tracking that neutralizes threats before they can react. It doesn't just aim; it hunts with predatory precision.
+V2.5 AIMBOT OVERHAUL (NEW): We’ve reached the peak of optimization. This isn't just an aimbot; it’s a death sentence. We’ve perfected the humanization algorithms to be so smooth it’s insulting. Instant target acquisition, zero-latency response, and new bone-prioritization logic that ensures they drop before they can even process they’re dead.
 
-ADVANCED PREDICTION: Stop chasing shadows. Our prediction engine anticipates the enemy's path, placing your crosshair exactly where they will be. By the time they move, the battle is already won.
+ADVANCED PREDICTION: Why chase them when you can just meet them at the finish line? Our engine calculates their path and puts your crosshair where they will be. By the time they realize you’re there, they’re already spectating.
 
-ZERO PERFORMANCE TAX: Most hubs compromise your system. LH V2.3 runs silent and optimized with zero FPS drop. We provide the power; your PC provides the speed.
+ZERO PERFORMANCE TAX: Most hubs are bloated garbage that eat your frames. LH V2.5 runs silent and lethal. We optimized the hell out of the backend so you get the power without the lag. While they’re stuttering, you’re stacking bodies.
 
-UI DECONSTRUCTION: A minimalist interface that stays out of your way. One click for total immersion. Total focus. Total casualties.
+UI DECONSTRUCTION: Get the menu out of your face. One click and it’s gone. Total immersion for total casualties. No distractions, just a clean screen and a rising kill count.
 
-FRIEND & TEAM LOGIC: Sophisticated logic ensures you never lock onto an ally. Maintain your reputation while you systematically dismantle the opposition.
+FRIEND & TEAM LOGIC: Don’t be a clown and lock onto your own team. Our logic keeps your "legit" reputation intact while you systematically dismantle the server. Keep the salt flowing from the enemies, not your teammates.
 
-PLAYER SEARCH: No one is anonymous. No one is hidden. Locate your targets with systematic efficiency.
+PLAYER SEARCH: No one is anonymous. No one is safe. Find your targets, track them down, and end them. It’s not a game; it’s a systematic execution.
 
-(NEW) WHITE LIST / BLACK LIST: Effortlessly manage your allies and enemies with a single, intuitive interface.
+(NEW) THE HIT LIST (White/Black List): Mark your enemies for priority deletion. One click to whitelist your friends and blacklist the trash. Manage your server-wide domination with ease.
 
-(NEW) DYNAMIC FAST SWITCHING: Master the battlefield without opening a menu. Change target zones (Head or Torso) instantly with a customizable keybind for seamless adaptability.
+(NEW) RAPID TARGET SWITCHING: Stop fumbling with menus. With our new optimized keybinds, switch from Head to Torso instantly. Adapt on the fly and never miss a beat—or a kill.
 
 THE BOTTOM LINE
-Others grind; you dominate. Others guess; you already know.
+"Legit" players cry about the grind. You just win. They guess; you know. They try; you succeed.
 
-If you want a flashy gimmick, go find a cheap hub. If you want to remain undetected, stay clean, and leave the competition questioning your skill, LH V2.3 is the only answer.
+If you want a flashy toy to show off, go buy a cheap, detected script. If you want to stay untouchable, stay clean, and make the entire server quit out of pure frustration because they can’t touch you—LH V2.5 is the only answer.
 
-Stop playing fair. Start winning.
+Stop playing fair. Start winning. Make them salty.
 
-Watch the Showcase
-[https://www.youtube.com/watch?v=09QpNQ5hfo0]
-
-Current Version: V2.4
+WATCH THE SHOWCASE
+(Currently Working in)
+Current Version: V2.5 (Optimized for Pure Dominance)
