@@ -1,4 +1,3 @@
-Gemini ha dicho
 LH V2.5: GOD MODE ENGAGED. TOTAL ANNIHILATION.
 
 Stop pretending you’re here to "compete." You’re here to delete people. Legit Hub (LH) V2.5 is here to ensure that every "pro" in the server looks like a complete amateur. We’ve stripped the fluff and injected pure, unadulterated dominance into every line of code. If you’re still playing fair, you’re just fodder for those who aren't.
